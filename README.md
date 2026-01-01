@@ -1,3 +1,13 @@
+# 🎓 Student Success Analysis: Predictive Modeling & EDA
+
+## 📌 Project Overview
+This project explores the **socio-economic and demographic factors influencing student academic performance**. Using a dataset of **1,000 students**, we apply **Exploratory Data Analysis (EDA)**, **Machine Learning**, and **Statistical Visualization** to identify the strongest predictors of success across **Math, Reading, and Writing**.
+
+The goal is to transform raw educational data into **actionable insights** that can guide educators, policymakers, and data practitioners toward high-impact interventions.
+
+---
+
+## 📂 Repository Structure
 
 ---
 
